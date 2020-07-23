@@ -12,7 +12,7 @@
 
 # Как установить на Linux(Ubuntu, Debian):
 
-  - устанавливаем dlib:
+  - **устанавливаем dlib:**
   
     sudo apt-get update && sudo apt-get install build-essential cmake -y && sudo apt-get install libopenblas-dev liblapack-dev -y
     
