@@ -16,6 +16,10 @@
 
 # Как установить на Linux(Ubuntu, Debian):
 
+  - **устанавливаем git:**
+  
+    sudo apt install git
+
   - **скачиваем репозиторий:**
     
     git clone https://github.com/hulumulu801/find_your_face_in_the_database.git
