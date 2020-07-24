@@ -24,4 +24,7 @@
     
     sudo apt-get install python-matplotlib python-numpy python-pil python-scipy -y
     
+  - **запускаем install.py:**
+  
+    python3 install.py
     
