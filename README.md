@@ -34,7 +34,7 @@
     
   - **запускаем install.py:**
   
-    cd find_your_face_in_the_database
+    cd find_your_face_in_the_database/
   
     python3 install.py
     
