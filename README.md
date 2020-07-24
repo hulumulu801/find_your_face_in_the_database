@@ -16,6 +16,10 @@
 
 # Как установить на Linux(Ubuntu, Debian):
 
+  - **скачиваем репозиторий:**
+    
+    git clone https://github.com/hulumulu801/find_your_face_in_the_database.git
+
   - **устанавливаем dlib:**
   
     sudo apt-get update && sudo apt-get install build-essential cmake -y && sudo apt-get install libopenblas-dev liblapack-dev -y
