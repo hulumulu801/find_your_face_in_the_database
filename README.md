@@ -19,6 +19,10 @@
   - **устанавливаем git:**
   
     sudo apt install git
+    
+  - **устанавливаем pip3:**
+  
+    sudo apt install python3-pip
 
   - **скачиваем репозиторий:**
     
