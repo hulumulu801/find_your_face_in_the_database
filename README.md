@@ -2,7 +2,7 @@
 
 Этот скрипт ищет в базе данных изображений заданное лицо.
 
-[![Поиск конкретного лица в базе данных с фотографиями.](https://img.youtube.com/N4evIIOrjHw/0.jpg)](https://www.youtube.com/watch?v=N4evIIOrjHw)
+[![Поиск конкретного лица в базе данных с фотографиями.](https://img.youtube.com/vi/N4evIIOrjHw/0.jpg)](https://www.youtube.com/watch?v=N4evIIOrjHw)
 
 # Описание файлов:
   
